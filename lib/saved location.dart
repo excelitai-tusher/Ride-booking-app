@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'dart:math'  as math;
-
 import 'package:ride_app/change%20password.dart';
 
 class Location extends StatefulWidget {

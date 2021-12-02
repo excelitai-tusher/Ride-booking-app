@@ -45,7 +45,7 @@ class _Location2State extends State<Location2> {
                           ),
                         ),
                         Padding(
-                          padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 60),
+                          padding: const EdgeInsets.symmetric(horizontal: 65, vertical: 60),
                           child: Text("Add Location",
                             style: TextStyle(
                               color: Colors.black,
